@@ -1,0 +1,27 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "MONGO and express CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIMUNQUE/Express.git"
+  },
+  "author": "JOSHUA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LIMUNQUE/Express/issues"
+  },
+  "homepage": "https://github.com/LIMUNQUE/Express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
